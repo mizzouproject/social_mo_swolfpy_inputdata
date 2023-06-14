@@ -130,17 +130,17 @@ Rb,Rb,SSYW,Number of bins for each house,1,bins/house,,,,,,,,,,,
 Rb,Rb,SSO,Number of bins for each house,1,bins/house,,,,,,,,,,,
 Rb,Rb,ORG,Number of bins for each house,2,bins/house,,,,,,,,,,,
 Rb,Rb,REC,Number of bins for each house,2,bins/house,,,,,,,,,,,
-Social_Metric,Social_Metric,RWC,Social metric of RWC,,$/Mg,,,,,,,,,5,-2,3
-Social_Metric,Social_Metric,SSR,Social metric of SSR,,$/Mg,,,,,,,,,5,-2,3
-Social_Metric,Social_Metric,DSR,Social metric of DSR,,$/Mg,,,,,,,,,5,-2,3
-Social_Metric,Social_Metric,MSR,Social metric of MSR,,$/Mg,,,,,,,,,5,-2,3
-Social_Metric,Social_Metric,LV,Social metric of LV,,$/Mg,,,,,,,,,5,-2,3
-Social_Metric,Social_Metric,SSYW,Social metric of SSYW,,$/Mg,,,,,,,,,5,-2,3
-Social_Metric,Social_Metric,SSO,Social metric of SSO,,$/Mg,,,,,,,,,5,-2,3
-Social_Metric,Social_Metric,ORG,Social metric of ORG,,$/Mg,,,,,,,,,5,-2,3
-Social_Metric,Social_Metric,DryRes,Social metric of DryRes,,$/Mg,,,,,,,,,5,-2,3
-Social_Metric,Social_Metric,REC,Social metric of REC,,$/Mg,,,,,,,,,5,-2,3
-Social_Metric,Social_Metric,WetRes,Social metric of WetRes,,$/Mg,,,,,,,,,5,-2,3
-Social_Metric,Social_Metric,MRDO,Social metric of MRDO,,$/Mg,,,,,,,,,5,-2,3
-Social_Metric,Social_Metric,SSYWDO,Social metric of SSYWDO,,$/Mg,,,,,,,,,5,-2,3
-Social_Metric,Social_Metric,MSRDO,Social metric of MSRDO,,$/Mg,,,,,,,,,5,-2,3
+Social_Metric,Social_Metric,RWC,Social metric of RWC,,$/Mg,,,,,,,,,111.43,41.71,0
+Social_Metric,Social_Metric,SSR,Social metric of SSR,,$/Mg,,,,,,,,,309.4,207.27,0
+Social_Metric,Social_Metric,DSR,Social metric of DSR,,$/Mg,,,,,,,,,309.4,207.27,0
+Social_Metric,Social_Metric,MSR,Social metric of MSR,,$/Mg,,,,,,,,,309.4,207.27,0
+Social_Metric,Social_Metric,LV,Social metric of LV,,$/Mg,,,,,,,,,339.34,133.82,0
+Social_Metric,Social_Metric,SSYW,Social metric of SSYW,,$/Mg,,,,,,,,,339.34,133.82,0
+Social_Metric,Social_Metric,SSO,Social metric of SSO,,$/Mg,,,,,,,,,339.34,133.82,0
+Social_Metric,Social_Metric,ORG,Social metric of ORG,,$/Mg,,,,,,,,,339.34,133.82,0
+Social_Metric,Social_Metric,DryRes,Social metric of DryRes,,$/Mg,,,,,,,,,111.43,41.71,0
+Social_Metric,Social_Metric,REC,Social metric of REC,,$/Mg,,,,,,,,,309.4,207.27,0
+Social_Metric,Social_Metric,WetRes,Social metric of WetRes,,$/Mg,,,,,,,,,111.43,41.71,0
+Social_Metric,Social_Metric,MRDO,Social metric of MRDO,,$/Mg,,,,,,,,,111.43,41.71,0
+Social_Metric,Social_Metric,SSYWDO,Social metric of SSYWDO,,$/Mg,,,,,,,,,339.34,133.82,0
+Social_Metric,Social_Metric,MSRDO,Social metric of MSRDO,,$/Mg,,,,,,,,,309.4,207.27,0
